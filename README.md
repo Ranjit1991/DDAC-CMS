@@ -8,7 +8,7 @@ This is my university assignment for developing a web application: "Maersk Line:
 5. MySQL
 
 My first uploaded files and folders are as below:
-index.php
-login.php
-CreateAccount.php
+index.php, 
+login.php, 
+CreateAccount.php, 
 CSS and img folders.
